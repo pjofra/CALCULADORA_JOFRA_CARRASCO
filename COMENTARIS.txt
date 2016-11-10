@@ -3,6 +3,8 @@ Guay:
 - Funciona bé.
 
 A millorar:
+- He hagut d'arreglar un error en els layouts que impedia compilar.
+
 - Quan apretes un número, sempre afegeix un dígit al número que hi ha, però
   si és el resultat, caldria esborrar i començar un nou número.
 
