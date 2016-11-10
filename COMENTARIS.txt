@@ -1,0 +1,15 @@
+
+Guay:
+- Funciona bé.
+
+A millorar:
+- Quan apretes un número, sempre afegeix un dígit al número que hi ha, però
+  si és el resultat, caldria esborrar i començar un nou número.
+
+- El layout és justet. No s'apropa gaire a l'original.
+  No agafa tot l'espai de la pantalla. Per fer-lo millor, es podia fer
+  servir GridLayout, que reparteix l'espai entre els diferents elements.
+
+- Per evitar tenir referències a tots els botons i haver de posar
+  listeners diferents a tots ells es pot utilitzar la propietat "onClick"
+  del layout, i posar el mateix mètode a molts botons.
